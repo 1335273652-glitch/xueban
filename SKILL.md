@@ -1,5 +1,5 @@
 ---
-name: learning-assistant
+name: xueban
 description: 将用户输入或导入的学习材料整理为笔记、知识结构、必要拓展和测验题；当用户希望复习当天学习内容或建立学习闭环时使用。
 ---
 
